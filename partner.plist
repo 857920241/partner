@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>这里写ipat包的地址</string>
+					<string>http://211.138.30.207:20500/partner/setup/Partner.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.asiainfo.Partner</string>
 				<key>bundle-version</key>
-				<string>2.22</string>
+				<string>2.20</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
